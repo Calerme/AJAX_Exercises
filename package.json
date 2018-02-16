@@ -1,0 +1,15 @@
+{
+  "name": "AJAX_Exercises",
+  "version": "1.0.0",
+  "description": "AJAX 强化练习",
+  "main": "index.js",
+  "repository": "git@github.com:Calerme/AJAX_Exercises.git",
+  "author": "caler <g-i@live.cn>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
